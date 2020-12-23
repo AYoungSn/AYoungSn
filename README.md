@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![yoahn's 42 stats](https://badge42.herokuapp.com/api/stats/yoahn?privacyEmail=true)
 
-![AYoungSn's github stats](https://github-readme-stats.vercel.app/api?username=AYoungSn)
+![AYoungSn's github stats](https://github-readme-stats.vercel.app/api?username=AYoungSn&show_icons=true&theme=dark)
