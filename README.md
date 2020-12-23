@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 🌱 I am a student developer studying in 42Seoul and Sungshin Univ.
 🙈 I am interested in C, C++, Java, Python, Javascript (TypeScript), React, React-Native and SQL!
-<img align="center" src="https://badge42.herokuapp.com/api/stats/yoahn?privacyEmail=true" />
+
+<img src="https://badge42.herokuapp.com/api/stats/yoahn?privacyEmail=true" />
 
 ----
 
