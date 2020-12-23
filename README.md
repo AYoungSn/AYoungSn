@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 
 ![AYoungSn's github stats](https://github-readme-stats.vercel.app/api?username=AYoungSn&show_icons=true&theme=merko)
 
-![AYoungSn's github stats](https://github-readme-stats.vercel.app/api?username=AYoungSn&show_icons=true&theme=vue-dark)
-
-![AYoungSn's github stats](https://github-readme-stats.vercel.app/api?username=AYoungSn&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYoungSn&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
