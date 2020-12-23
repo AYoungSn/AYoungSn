@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 -->
 
 
-![yoahn's 42 stats](https://badge42.herokuapp.com/api/stats/yoahn?privacyEmail=true)
+<img align="center" src="https://badge42.herokuapp.com/api/stats/yoahn?privacyEmail=true" />
 ----
 <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=AYoungSn&show_icons=true&theme=merko" />
+         <img src="https://github-readme-stats.vercel.app/api?username=AYoungSn&show_icons=true&theme=merko" />
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYoungSn&layout=compact&theme=merko&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYoungSn&layout=compact&theme=merko&langs_count=8" />
+</a>
