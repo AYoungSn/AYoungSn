@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 🌱 I am a student developer studying in 42Seoul and Sungshin Univ.
 
-🙈 I am interested in C++, Java(SpringBoot), Javascript (TypeScript), React and SQL!
+🙈 I am interested in Java(SpringBoot), Javascript (Nodejs/express.js), React and SQL!
 
-<img src="https://badge42.herokuapp.com/api/stats/yoahn?privacyEmail=true" />
 
 ----
 
