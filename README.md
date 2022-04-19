@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&fontColor=FFFFFF&fontSize=40&text=Hi👋!%20I'm%20YoungSeon&height=250&fontAlignY=40)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&fontColor=FFFFFF&fontSize=40&text=Hi👋!%20I'm%20YoungSeon&height=250&fontAlignY=40" alt="header" width="100%" />
+
 ### AYoungSn Profile 👋
 
 <!--
@@ -77,4 +78,5 @@ ft_printf [![yoahn's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl25u
 
 <a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&section=footer" alt="footer" width="100%" />
+
