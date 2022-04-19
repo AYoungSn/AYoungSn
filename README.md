@@ -73,4 +73,4 @@ ft_printf [![yoahn's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl25u
 
 ###  :mailbox: Contact
 
-<a href="dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+<a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
