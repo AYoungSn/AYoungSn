@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&fontColor=FFFFFF&fontSize=40&text=Hi👋!%20I'm%20Ahn%20YoungSeon&height=250&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&fontColor=FFFFFF&fontSize=40&text=Hi👋!%20I'm%20YoungSeon&height=250&fontAlignY=40)
 ### AYoungSn Profile 👋
 
 <!--
