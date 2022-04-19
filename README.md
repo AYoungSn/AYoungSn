@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&fontColor=FFFFFF&fontSize=40&text=Hi👋!%20I'm%20Ahn%20YoungSeon&height=250&fontAlignY=40)
 ### AYoungSn Profile 👋
 
 <!--
@@ -21,6 +22,8 @@ Here are some ideas to get you started:
 ![42](https://badgen.net/badge/Born2Code/yoahn/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
 🌱 I am a student developer studying in 42Seoul and Sungshin Univ.
+
+[![yoahn's 42 stats](https://badge42.vercel.app/api/v2/cl25ugsc5006409lfhfxr9ptm/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 🙈 I am interested in Java(SpringBoot), Javascript (Nodejs/express.js), React and SQL, Firebase!
 
@@ -51,7 +54,6 @@ Here are some ideas to get you started:
 
 ----
 
-[![yoahn's 42 stats](https://badge42.vercel.app/api/v2/cl25ugsc5006409lfhfxr9ptm/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 <!--
 👩🏻‍💻 42 subject
 
@@ -74,3 +76,5 @@ ft_printf [![yoahn's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl25u
 ###  :mailbox: Contact
 
 <a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&section=footer)
