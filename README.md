@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  <br/>
- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" /> ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
  </br>
  <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ###  :hammer:Tools
 
-<img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://img.shields.io/badge/Slack-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+
 ----
 
 [![yoahn's 42 stats](https://badge42.vercel.app/api/v2/cl25ugsc5006409lfhfxr9ptm/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
