@@ -77,18 +77,18 @@ get_next_line [![yoahn's 42 get_next_line Score](https://badge42.vercel.app/api/
 
 ft_printf [![yoahn's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl25ugsc5006409lfhfxr9ptm/project/2062207)](https://github.com/JaeSeoKim/badge42)
 -->
-
+<div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
          <img src="https://github-readme-stats.vercel.app/api?username=AYoungSn&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYoungSn&layout=compact&theme=merko&langs_count=8" />
 </a>
-
+</div>
 
 ###  :mailbox: Contact
-<div align=center>
+
 <a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" ></a>
-</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:B993D6&section=footer" alt="footer" width="100%" />
 
