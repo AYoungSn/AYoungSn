@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:B993D6&fontColor=FFFFFF&fontSize=40&text=Hi👋!%20I'm%20YoungSeon&height=250&fontAlignY=40" alt="header" width="100%" />
-
-### AYoungSn Profile 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:B993D6&fontColor=FFFFFF&fontSize=40&text=AYoungSn%20Profile%20👋&height=250&fontAlignY=40" alt="header" width="100%" />
 
 <!--
 **AYoungSn/AYoungSn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
