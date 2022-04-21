@@ -63,6 +63,10 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/>
  </div>
  
+ ###  :mailbox: Contact
+
+<a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" ></a>
+ 
 ----
 
 <!--
@@ -84,10 +88,6 @@ ft_printf [![yoahn's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl25u
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYoungSn&layout=compact&theme=merko&langs_count=8" />
 </a>
 </div>
-
-###  :mailbox: Contact
-
-<a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" ></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:B993D6&section=footer" alt="footer" width="100%" />
 
