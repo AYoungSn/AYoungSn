@@ -75,6 +75,25 @@ Here are some ideas to get you started:
  <a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" ></a>
 </div>
 
+### project list
+
+#### 2020
+- 오늘의 모다 : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱
+
+<br/>
+
+#### 2021
+
+- career42gn : 구인구직 커뮤니티 사이트
+- Visitor : 이노베이션 아카데미 직원을 만나야 할 때 예약을 잡을 수 있는 사이트
+- HiAlcohol : 칵테일 레시피 검색, 공유 서비스
+
+<br/>
+
+#### 2022
+
+- 크로플 원정대: 크로플 가게 검색, 크로플 정보 공유 사이트
+
 ----
 
 <!--
