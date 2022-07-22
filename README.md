@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 #### 2022
 
-- 크로플 원정대: 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
+- [크로플 원정대](https://github.com/ProjectDevelopment3/Croffle-server): 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
 
 ----
 
