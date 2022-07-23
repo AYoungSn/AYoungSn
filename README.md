@@ -78,8 +78,11 @@ Here are some ideas to get you started:
 
 ### project list
 
-#### 2020
-- 오늘의 모다 : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱 (Lead)
+
+#### 2022
+
+- [크로플 원정대](https://github.com/ProjectDevelopment3/Croffle-server): 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
+- [HiAlcohol - Front](https://github.com/HiAlcohol/HiAlcohol_react): 칵테일 레시피 검색, 공유 서비스 (Lead)
 
 <br/>
 
@@ -91,11 +94,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-#### 2022
+#### 2020
+- 오늘의 모다 : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱 (Lead)
 
-- [크로플 원정대](https://github.com/ProjectDevelopment3/Croffle-server): 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
-- [HiAlcohol - Front](https://github.com/HiAlcohol/HiAlcohol_react): 칵테일 레시피 검색, 공유 서비스 (Lead)
-
+<br/>
 
 ----
 
