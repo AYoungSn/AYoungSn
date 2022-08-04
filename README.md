@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 </div>
 
-🙈 I am interested in Java(SpringBoot), Javascript (Nodejs/express.js), React and SQL, Firebase!
+🙈 I am interested in Java(SpringBoot), Javascript (Nodejs/express.js), React and SQL, Docker!
 
 ### 👷 Skill list
 <div align=center>
@@ -81,21 +81,21 @@ Here are some ideas to get you started:
 
 #### 2022
 
-- [크로플 원정대](https://github.com/ProjectDevelopment3/Croffle-server): 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
+- [크로플 원정대 - Server](https://github.com/ProjectDevelopment3/Croffle-server): 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
 - [HiAlcohol - Front](https://github.com/HiAlcohol/HiAlcohol_react): 칵테일 레시피 검색, 공유 서비스 (Lead)
 
 <br/>
 
 #### 2021
 
-- career42gn : 구인구직 커뮤니티 사이트 (Lead)
-- [Visitor](https://github.com/innovationacademy-kr/visitor-backend) : 이노베이션 아카데미 직원을 만나야 할 때 예약을 잡을 수 있는 사이트 (Lead)
-- [HiAlcohol](https://github.com/HiAlcohol/HiAlcohol_server) : 칵테일 레시피 검색, 공유 서비스 (Lead)
+- career42gn - Server : 구인구직 커뮤니티 사이트 (Lead)
+- [Visitor - Server](https://github.com/innovationacademy-kr/visitor-backend) : 이노베이션 아카데미 직원을 만나야 할 때 예약을 잡을 수 있는 사이트 (Lead)
+- [HiAlcohol - Full](https://github.com/HiAlcohol/HiAlcohol_server) : 칵테일 레시피 검색, 공유 서비스 (Lead)
 
 <br/>
 
 #### 2020
-- 오늘의 모다 : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱 (Lead)
+- 오늘의 모다 - Front : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱 (Lead)
 
 <br/>
 
