@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 #### 2021
 
 - career42gn - Server : 구인구직 커뮤니티 사이트 (Lead)
-- [Visitor - Server](https://github.com/innovationacademy-kr/visitor-backend) : 이노베이션 아카데미 직원을 만나야 할 때 예약을 잡을 수 있는 사이트 (Lead)
+- [Visitor - Server](https://github.com/AYoungSn/visitor_back) : 이노베이션 아카데미 직원을 만나야 할 때 예약을 잡을 수 있는 사이트 (Lead)
 - [HiAlcohol - Front & BackEnd](https://github.com/HiAlcohol/HiAlcohol_server) : 칵테일 레시피 검색, 공유 서비스 (Lead)
 
 <br/>
