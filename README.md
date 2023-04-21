@@ -99,11 +99,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-#### 2020
+<!-- #### 2020
 - 오늘의 모다 - Front : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱 (Lead)
 
 <br/>
-
+ -->
 ----
 
 <!--
@@ -126,5 +126,5 @@ ft_printf [![yoahn's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl25u
  </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:B993D6&section=footer" alt="footer" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64b3f4,100:B993D6&section=footer" alt="footer" width="100%" /> -->
 
