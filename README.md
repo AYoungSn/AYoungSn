@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <div align=center>
 
  [![yoahn's 42 stats](https://badge42.vercel.app/api/v2/cl25ugsc5006409lfhfxr9ptm/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+ 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudtjs0920)](https://solved.ac/dudtjs0920)
 
 </div>
 
