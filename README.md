@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 ### project list
 
 #### 2023
-- [42gg - Server](https://github.com/42organization/42gg.server.dev.v2): 42Seoul 내의 탁구 게임 매칭 & 랭킹 시스템 개선 (Lead) 진행 중
+- [42gg - Server](https://github.com/42organization/42gg.server.dev.v2): 42Seoul 내의 탁구 게임 매칭 & 랭킹 시스템 개선 (Lead)
 
 <br/>
 
