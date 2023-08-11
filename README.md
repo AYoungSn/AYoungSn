@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 </div>
 
-🙈 I am interested in Java(SpringBoot), Javascript (Nodejs/express.js), React and SQL, Docker!
+🙈 I am interested in Java(SpringBoot), React and SQL, Docker!
 
 ### 👷 Skill list
 <div align=center>
