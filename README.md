@@ -88,27 +88,27 @@ Here are some ideas to get you started:
 ### project list
 
 #### 2023
-- [42gg - Server](https://github.com/42organization/42gg.server.dev.v2): 42Seoul 내의 탁구 게임 매칭 & 랭킹 시스템 개선 (Lead)
+- [42gg - BE](https://github.com/42organization/42gg.server.dev.v2): 42Seoul 내의 탁구 게임 매칭 & 랭킹 시스템 개선 (Lead)
 
 <br/>
 
 #### 2022
 
-- [크로플 원정대 - Server](https://github.com/ProjectDevelopment3/Croffle-server): 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
-- [HiAlcohol - Front](https://github.com/HiAlcohol/HiAlcohol_react): 칵테일 레시피 검색, 공유 서비스 (Lead) (성신여자대학교 소프트웨어 경진대회 - 은상)
+- [크로플 원정대 - BE](https://github.com/ProjectDevelopment3/Croffle-server): 크로플 가게 검색, 크로플 정보 공유 사이트 (Lead)
+- [HiAlcohol - FE](https://github.com/HiAlcohol/HiAlcohol_react): 칵테일 레시피 검색, 공유 서비스 (Lead) (성신여자대학교 소프트웨어 경진대회 - 은상)
 
 <br/>
 
 #### 2021
 
-- career42gn - Server : 구인구직 커뮤니티 사이트 (Lead)
-- [Visitor - Server](https://github.com/AYoungSn/visitor_back) : 이노베이션 아카데미 직원을 만나야 할 때 예약을 잡을 수 있는 사이트 (Lead)
-- [HiAlcohol - Front & BackEnd](https://github.com/HiAlcohol/HiAlcohol_server) : 칵테일 레시피 검색, 공유 서비스 (Lead)
+- career42gn - BE : 구인구직 커뮤니티 사이트 (Lead)
+- [Visitor - BE](https://github.com/AYoungSn/visitor_back) : 이노베이션 아카데미 직원을 만나야 할 때 예약을 잡을 수 있는 사이트 (Lead)
+- [HiAlcohol - FE & BE](https://github.com/HiAlcohol/HiAlcohol_server) : 칵테일 레시피 검색, 공유 서비스 (Lead)
 
 <br/>
 
 <!-- #### 2020
-- 오늘의 모다 - Front : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱 (Lead)
+- 오늘의 모다 - FE : 오늘의 날씨에 맞는 옷 추천 하이브리드 앱 (Lead)
 
 <br/>
  -->
