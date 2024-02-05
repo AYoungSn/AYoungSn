@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 #### 2024
 - [42gg - PL](https://github.com/42organization/42gg.server.dev.v2): 탁구 게임 매칭 & 랭킹 시스템 유지보수
-- TDD(ToDoDefense) : Todo 앱 (SpringBoot3, JPA, Security, QueryDSL, MySQL)
+- [TDD(ToDoDefense) - BE](https://github.com/TDD-ToDoDefense/TDD-server) : Todo 앱 (SpringBoot3, JPA, Security, QueryDSL, MySQL)
 
 #### 2023
 - [42gg - BE](https://github.com/42organization/42gg.server.dev.v2): 42Seoul 내의 탁구 게임 매칭 & 랭킹 시스템 개선 (Lead)
