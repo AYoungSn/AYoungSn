@@ -23,7 +23,6 @@ Here are some ideas to get you started:
  
 ![42](https://badgen.net/badge/Born2Code/yoahn/green?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
 
-🌱 I am a student developer studying in 42Seoul and Sungshin Univ.
 <div align=center>
 
  [![yoahn's 42 stats](https://badge42.vercel.app/api/v2/cl25ugsc5006409lfhfxr9ptm/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
@@ -85,7 +84,23 @@ Here are some ideas to get you started:
  <a href="mailto:dudtjs0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" ></a>
 </div>
 
-### project list
+### 🏛️ Company
+
+#### 2024
+
+중고나라 - 솔루션 개발팀
+
+- Node.js, JavaScript/TypeScript, DynamoDB, Lambda, SQS, Serverless, React, MySQL
+- 채팅, FDS 유지보수
+
+#### 2023
+
+PearlAbyss - 웹 백엔드 인턴
+
+- C#, MSSQL, ASP.NET MVC
+- 사내외 시스템 유지보수
+
+### 📰 project list
 
 #### 2024
 - [42gg - PL](https://github.com/42organization/42gg.server.dev.v2): 탁구 게임 매칭 & 랭킹 시스템 유지보수
