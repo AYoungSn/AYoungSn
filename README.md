@@ -86,12 +86,13 @@ Here are some ideas to get you started:
 
 ### 🏛️ Company
 
-#### 2024
+#### 2024 ~
 
-중고나라 - 솔루션 개발팀
+중고나라 - 상품서비스개발팀(결제)
 
-- Node.js, JavaScript/TypeScript, DynamoDB, Lambda, SQS, Serverless, React, MySQL
-- 채팅, FDS 유지보수
+- Java, SpringBoot, Spring Boot Batch, DynamoDB, SQS, Vue, MySQL, Redis
+- 결제, 배송 업무
+- 세금계산서, 커머스 수수료 관련 프로젝트 진행
 
 #### 2023
 
