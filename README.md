@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 </div>
 
-🙈 I am interested in Java(SpringBoot), React and SQL, Docker!
+🙈 I am interested in Java(SpringBoot), DB!
 
 ### 👷 Skill list
 <div align=center>
